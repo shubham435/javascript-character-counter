@@ -29,3 +29,8 @@ body{
     text-decoration: none;
     text-align: center;
 }
+@media only screen and (max-width: 525px){
+    #text{
+        width: 230px;
+    }
+}
