@@ -1,0 +1,31 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+#text{
+    border: 2px solid cadetblue;
+    border-radius: 5px;
+}
+#para{
+    color: rgb(59, 109, 218);
+    font-size: 20px;
+}
+#btn{
+    /* padding: 20px; */
+    width: 150px;
+    height: 30px;
+    border: 3px solid cadetblue;
+    background-color: cyan;
+    color: white;
+    border-radius: 23px;
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+}
